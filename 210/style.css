@@ -14,3 +14,13 @@
     height: 50px;
     border: 1px solid;
 }
+#parent2 {
+   margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+	align-items: center;
+}
