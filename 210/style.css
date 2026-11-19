@@ -34,3 +34,13 @@
     justify-content: flex-end;
 	align-items: center;
 }
+#parent4 {
+   margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+	align-items: center;
+}
