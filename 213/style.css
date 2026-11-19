@@ -1,0 +1,38 @@
+.parent {
+	display: flex;
+	align-items: center;
+    justify-content: center;
+	width: 500px;
+	height: 200px;
+	border: 1px solid red;
+
+}
+.child {
+	width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+.elem {
+	align-self: flex-end;
+}
+
+.parent2 {
+	display: flex;
+	align-items: center;
+    justify-content: center;
+	width: 500px;
+	height: 200px;
+	border: 1px solid red;
+}
+.child2 {
+	border: 1px solid green;
+	height: 200px;
+	width: 50px;
+
+
+}
+.elem2 {
+	align-self: center;	
+    height: 50px;
+
+}
