@@ -10,7 +10,17 @@
 }
 
 #block {
-    height: 90px;
-    width: 90px;
+    height: 50px;
+    width: 50px;
     border: 1px solid;
+}
+#parent2 {
+   margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+	align-items: flex-start;
 }
