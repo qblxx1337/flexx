@@ -45,10 +45,10 @@
     height: 300px;
     border: 1px solid;
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: start;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+	align-items:     flex-end;
 }
-
 
 #parent5 {
     margin: 0 auto;
