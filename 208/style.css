@@ -43,3 +43,18 @@
     height: 50px;
     border: 1px solid;
 }
+#parent4 {
+    margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
+
+#block4 {
+    width: 90px;
+    height: 50px;
+    border: 1px solid;
+}
