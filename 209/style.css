@@ -25,3 +25,37 @@
 	align-items:     flex-end;
 }
 
+
+#parent3 {
+    margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+	align-items:     flex-start;
+
+}
+
+
+#parent4 {
+    margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
+
+
+#parent5 {
+    margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: start;
+}
