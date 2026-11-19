@@ -1,0 +1,15 @@
+#parent {
+   margin: 0 auto;
+    width: 900px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+	align-items: center;
+}
+
+#block {
+    height: 300px;
+    width: 90px;
+    border: 1px solid;
+}
